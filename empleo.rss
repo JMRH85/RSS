@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Busqueda de Empleo </title>
+    <link>http://www.miempleo.com</link>
+    <description>Noticias dedicadas a la busqueda de empleo por la red </description>
+    <language>es</language>
+    <item>
+      <title>ofertas de empleo diarias </title>
+      <pubDate>Tue, 22 Oct 2024 12:23:49 +0200</pubDate>
+      <link>http://www.empleoactivo.com/ofertasdiariasactivas</link>
+      <description><![CDATA[informacion de las ofertas de trabajo diares por toda la provincia ]]></description>
+    </item>
+    <item>
+      <title>Que requisitos tienen los trabajadores para su incorporacion</title>
+      <pubDate>Tue, 22 Oct 2024 00:18:58 +0200</pubDate>
+      <link>http://www.empleoactivo.com/requisitosempleados</link>
+      <description><![CDATA[información de requisitos minimos que tiene que tener el empleado para la incorporación ]]></description>
+    </item>
+    <item>
+      <title>como preparase una entrevista de trabajo </title>
+      <pubDate>Tue, 22 Oct 2024 00:16:22 +0200</pubDate>
+      <link>http://www.empleoactivo.com/prepararseentrevista</link>
+      <description><![CDATA[información de como prepararse una entrevista de trabajo y tener exito]]></description>
+    </item>
+    <item>
+      <title>portales mas efectivos para la busqueda de empleo </title>
+      <pubDate>Tue, 22 Oct 2024 00:12:48 +0200</pubDate>
+      <link>http://www.empleoactivo.com/portatesefectivos </link>
+      <description><![CDATA[informacion de portales de busqueda de empleo mas efectivo de 2024]]></description>
+    </item>
+    <item>
+      <title>como mejorar tu CV</title>
+      <pubDate>Mon, 21 Oct 2024 23:59:51 +0200</pubDate>
+      <link>http://www.empleoactivo.com/mejorarCV</link>
+      <description><![CDATA[articulo que se encarga en como mejorar tu CV en 4 pasos ]]></description>
+    </item>
+  </channel>
+</rss>
